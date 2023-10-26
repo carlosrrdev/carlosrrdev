@@ -1,5 +1,4 @@
-<div style="text-align: center">
-<img alt="image of cozy room" src="assets/cozy.gif" />
+![cozy room](assets/cozy.gif)
 
 # Hey there 👋
 
@@ -8,6 +7,4 @@ I specialize in working with React, Javascript, and Nodejs but I am also
 always happy to learn and try new tech stacks. Recently i've been looking
 into Svelte and Qwik.
 
-
 [Personal portfolio](https://carlosrr.dev)
-</div>
