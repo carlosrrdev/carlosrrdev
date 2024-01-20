@@ -1,10 +1,9 @@
-![cozy room](assets/cozy.gif)
+![cozy room](assets/laptop.gif)
 
 # Hey there 👋
 
-My name is Carlos. I am a full-stack web developer based in Kansas, USA.
-I specialize in working with React, Javascript, and Nodejs but I am also 
-always happy to learn and try new tech stacks. Recently i've been looking
-into Svelte and Qwik.
+My name is Carlos. I am a full-stack web developer based in [Kansas, USA](). I mainly work
+with Javascript and Typescript. Experienced with a variety of frameworks such as React and Svelte.
 
-[Personal portfolio](https://carlosrr.dev)
+If you'd like to get to know me a little better, you can check out my personal portfolio. Thanks for taking the time
+to check out my GitHub profile! Have a wonderful day/night ✨
