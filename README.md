@@ -1,9 +1,10 @@
-![cozy room](assets/laptop.gif)
+<div>
+    <img width="100%" src="/assets/sakura.gif" alt="sakura blossom"/>
+</div>
 
-# Hey there 👋
+# Hi!
 
-My name is Carlos. I am a full-stack web developer based in [Kansas, USA](https://raw.githubusercontent.com/carlosrrdev/carlosrrdev/main/assets/kansas.png). I mainly work
-with Javascript and Typescript. Experienced with a variety of frameworks such as React and Svelte.
+My name is Carlos. I am a full-stack developer based in [Kansas, USA](https://raw.githubusercontent.com/carlosrrdev/carlosrrdev/main/assets/kansas.png).
+My focus is primarily on web technologies such as HTML, CSS, Javascript, and Node.
 
-If you'd like to get to know me a little better, you can check out my personal portfolio. Thanks for taking the time
-to check out my GitHub profile! Have a wonderful day/night ✨
+You can check out my portfolio if you'd like to know more about me 👉 [crr.codes](https://crr.codes)
