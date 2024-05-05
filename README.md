@@ -1,5 +1,5 @@
 <div>
-    <img width="100%" src="/assets/sakura.gif" alt="sakura blossom"/>
+    <img width="100%" src="/assets/wind.gif" alt="sakura blossom"/>
 </div>
 
 # Hi!
